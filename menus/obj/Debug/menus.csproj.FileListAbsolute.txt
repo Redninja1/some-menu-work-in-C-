@@ -1,0 +1,18 @@
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\bin\Debug\menus.exe.config
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\bin\Debug\menus.exe
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\bin\Debug\menus.pdb
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\obj\Debug\menus.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\obj\Debug\menus.Form1.resources
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\obj\Debug\menus.Properties.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\obj\Debug\menus.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\obj\Debug\menus.exe
+c:\users\james\documents\visual studio 2013\Projects\menus\menus\obj\Debug\menus.pdb
+C:\Users\James\Desktop\Projects\menus\menus\bin\Debug\menus.exe.config
+C:\Users\James\Desktop\Projects\menus\menus\obj\Debug\menus.exe
+C:\Users\James\Desktop\Projects\menus\menus\obj\Debug\menus.pdb
+C:\Users\James\Desktop\Projects\menus\menus\bin\Debug\menus.exe
+C:\Users\James\Desktop\Projects\menus\menus\bin\Debug\menus.pdb
+C:\Users\James\Desktop\Projects\menus\menus\obj\Debug\menus.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Projects\menus\menus\obj\Debug\menus.Form1.resources
+C:\Users\James\Desktop\Projects\menus\menus\obj\Debug\menus.Properties.Resources.resources
+C:\Users\James\Desktop\Projects\menus\menus\obj\Debug\menus.csproj.GenerateResource.Cache
